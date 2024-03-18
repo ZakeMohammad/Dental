@@ -1,0 +1,9 @@
+C:\Users\Progr\OneDrive\Desktop\Project\HudaClinc-BusinessLayer\bin\Debug\HudaClinc-BusinessLayer.dll
+C:\Users\Progr\OneDrive\Desktop\Project\HudaClinc-BusinessLayer\bin\Debug\HudaClinc-BusinessLayer.pdb
+C:\Users\Progr\OneDrive\Desktop\Project\HudaClinc-BusinessLayer\bin\Debug\HudaClinc-DataAccessLayer.dll
+C:\Users\Progr\OneDrive\Desktop\Project\HudaClinc-BusinessLayer\bin\Debug\HudaClinc-DataAccessLayer.pdb
+C:\Users\Progr\OneDrive\Desktop\Project\HudaClinc-BusinessLayer\obj\Debug\HudaClinc-BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Progr\OneDrive\Desktop\Project\HudaClinc-BusinessLayer\obj\Debug\HudaClinc-BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Progr\OneDrive\Desktop\Project\HudaClinc-BusinessLayer\obj\Debug\HudaClinc-BusinessLayer.csproj.CopyComplete
+C:\Users\Progr\OneDrive\Desktop\Project\HudaClinc-BusinessLayer\obj\Debug\HudaClinc-BusinessLayer.dll
+C:\Users\Progr\OneDrive\Desktop\Project\HudaClinc-BusinessLayer\obj\Debug\HudaClinc-BusinessLayer.pdb

@@ -1,0 +1,6 @@
+C:\Users\Progr\OneDrive\Desktop\Project\HudaClinc-DataAccessLayer\bin\Debug\HudaClinc-DataAccessLayer.dll
+C:\Users\Progr\OneDrive\Desktop\Project\HudaClinc-DataAccessLayer\bin\Debug\HudaClinc-DataAccessLayer.pdb
+C:\Users\Progr\OneDrive\Desktop\Project\HudaClinc-DataAccessLayer\obj\Debug\HudaClinc-DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Progr\OneDrive\Desktop\Project\HudaClinc-DataAccessLayer\obj\Debug\HudaClinc-DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Progr\OneDrive\Desktop\Project\HudaClinc-DataAccessLayer\obj\Debug\HudaClinc-DataAccessLayer.dll
+C:\Users\Progr\OneDrive\Desktop\Project\HudaClinc-DataAccessLayer\obj\Debug\HudaClinc-DataAccessLayer.pdb
